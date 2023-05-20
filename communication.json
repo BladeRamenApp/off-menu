@@ -1,0 +1,15 @@
+{
+  "com_date" : "2023-05-20T11:00:00",
+  "dishes" : [
+    {
+      "dish_type" : "special",
+      "dish_name" : "Yakitori",
+      "dish_preview" : ""
+    },
+    {
+      "dish_type" : "special",
+      "dish_name" : "Yakitori",
+      "dish_preview" : ""
+    }
+  ]
+}
